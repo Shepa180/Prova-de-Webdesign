@@ -1,0 +1,201 @@
+.topo {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    position: absolute;
+    width: 1850px;       
+}
+
+.complementoTopo {
+    position: absolute;
+    color: gray;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+
+.complementoTopo2 {
+    position: absolute;
+    color: gray;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 470px;
+}
+
+.complementoTopo3 {
+    position: absolute;
+    color: gray;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+
+.complementoTopo4 {
+    position: absolute;
+    color: gray;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 825px;
+}
+
+.tituloSite {
+    position: absolute;
+    margin-top: 90px;
+    font-size: 30px;
+    margin-left: 95px;
+    font-weight: bold;
+}
+
+.linhaCinza {
+    position: absolute;
+    background-color: rgb(161, 159, 159);
+    margin-top: 150px;
+    margin-left: 95px;
+    width: 1600px;
+    height: 2px;
+}
+
+.bloco {
+    margin-top: 160px;
+    position: absolute;
+    text-align: justify;
+    margin-left: 250px;
+    width: 700px;
+}
+
+.info1 {
+    color: grey;
+    font-weight: bold;    
+}
+
+.info2 {
+    font-size: 25px;
+    margin-top: 0px;
+    font-weight: bold;
+    width: 500px;    
+}
+
+.info3 {
+    color: grey; 
+    font-size: 17px;  
+}
+
+.infoData {
+    color: grey;
+}
+
+.star {
+    margin-left: 5px;
+}
+
+.flag1 {
+    position: absolute;
+    margin-left: 890px;
+    margin-top: 355px;
+} 
+
+.pontinhos1 {
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 930px;
+}
+
+.bloco2 {
+    margin-top: 450px;
+    position: absolute;
+    text-align: justify;
+    margin-left: 250px;
+    width: 700px;
+}
+
+.bloco3 {
+    margin-top: 750px;
+    position: absolute;
+    text-align: justify;
+    margin-left: 250px;
+    width: 700px;
+}
+
+.flag2 {
+    position: absolute;
+    margin-top: 640px;
+    margin-left: 890px;
+}
+
+.flag3 {
+    position: absolute;
+    margin-top: 885px;
+    margin-left: 890px;
+}
+
+.pontinhos2 {
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 930px;
+}
+
+.pontinhos3 {
+    position: absolute;
+    margin-top: 893px;
+    margin-left: 930px;
+}
+
+.laptop {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 1000px;
+}
+
+.balloon {
+    position: absolute;
+    margin-top: 475px;
+    margin-left: 1000px;
+}
+
+.netflix {
+    position: absolute;
+    margin-top: 750px;
+    margin-left: 1000px;
+}
+
+.footer {
+    position: absolute;
+    background-color: black;
+    margin-top: 1000px;
+    width: 1870px;
+    height: 150px;
+}
+
+.M {
+    position: absolute;
+    background-color: white;
+    margin-top: 1075px;
+    font-size: 40px;
+    margin-left: 250px;
+    text-align: center;
+    width: 50px;
+    font-weight: bold;
+}
+
+.detalhe {
+    background-color: grey;
+    position: absolute;
+    height: 30px;
+    width: 2px;
+    margin-top: 18px;
+    margin-left: 795px;
+}
+
+.ux {
+    position: absolute;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+
+
+
+
